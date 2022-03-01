@@ -38,7 +38,7 @@ npm start
 
 ## Author
 
-👤 **Azeez Rotimi Arigbabuwo**
+👤 **Nakitto Catherine**
 
 - GitHub: [@Cathella](https://github.com/Cathella)
 - Twitter: [@cathella9](https://twitter.com/cathella9)
